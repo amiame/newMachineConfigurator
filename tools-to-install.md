@@ -7,6 +7,7 @@ brew
 gcc
 fish
 fzf
+ripgrep
 node
 nvim
 tmux-sessionizer
